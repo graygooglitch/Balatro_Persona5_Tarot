@@ -1,0 +1,14 @@
+{
+	"id": "P5tarot",
+	"name": "Persona 5 Tarot Cards",
+	"display_name": "Persona 5 Tarot",
+	"author": ["GrayGooGlitch"],
+	"description": "Persona 5 Tarot Card Texture Pack",
+	"prefix": "p5t",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": []
+}
